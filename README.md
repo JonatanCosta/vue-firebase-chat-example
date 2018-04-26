@@ -1,6 +1,6 @@
 # vue-firebase-chat
 
-> A Vue.js project
+> A Vue.js and Firebase CloudStore (beta) <br>
 
 ## Build Setup
 
